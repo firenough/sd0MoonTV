@@ -87,7 +87,7 @@
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "https://xinlangapi.com"
     }
-    "api"wwzytv: {
+    "apiwwzytv": {
       "name": "旺旺资源",
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "detail": "https://api.wwzy.tv"
@@ -192,7 +192,7 @@
       "api": "https://www.jingpinx.com/api.php/provide/vod",
       "detail": "https://www.jingpinx.com"
     }
-    "api"lsbzy1com": {
+    "apilsbzy1com": {
       "name": "-老色逼-",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
@@ -272,10 +272,10 @@
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
       "detail": "https://heiliaozy.cc"
     }
-
-    
+ 
   }
 
 }
+
 
 
