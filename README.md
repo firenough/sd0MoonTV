@@ -161,7 +161,7 @@
 3. 选择 Pages，导入现有的 Git 存储库，选择 Fork 后的仓库
 4. 构建命令填写 **pnpm run pages:build**，预设框架为无，**构建输出目录**为 `.vercel/output/static`
 5. 保持默认设置完成首次部署。进入设置，将兼容性标志设置为 `nodejs_compat`，无需选择，直接粘贴
-6. 首次部署完成后进入设置，新增 PASSWORD 密钥（变量和机密下），而后重试部署。
+6. 首次部署完成后进入设置，新增 PASSWORD 密钥（变量和机密下），而后重试部署。[此處在pages部署的時候，有選項可以添加環境變量，此時就添加PASSWORD和USERNAME以及他們的value就好，省卻後面再添加時候容易出錯]
 7. 如需自定义 `config.json`，请直接修改 Fork 后仓库中该文件。
 8. 每次 Push 到 `main` 分支将自动触发重新构建。
 
