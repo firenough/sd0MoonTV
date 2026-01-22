@@ -2,7 +2,7 @@
   "cache_time": 7200,
   "api_site": {
 
-    "iqiyizy"api": {
+    "iqiyizyapi": {
         "name":"-爱奇艺-",
         "api": "https://iqiyizyapi.com/api.php/provide/vod",
         "detail": "https://iqiyizyapi.com"
@@ -35,7 +35,7 @@
     "dyttzyapicom": {
       "name": "电影天堂",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "detail": "http://caiji.dyttzy"api".com"
+      "detail": "http://caiji.dyttzyapi.com"
     }
     "wwwmaoyanzycom": {
       "name": "猫眼资源",
@@ -65,7 +65,7 @@
     "ffzyapicom": {
       "name": "非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
-      "detail": "https://cj.ffzy"api".com"
+      "detail": "https://cj.ffzyapi.com"
     }
     "bfzytv": {
       "name": "暴风资源",
@@ -277,4 +277,5 @@
   }
 
 }
+
 
